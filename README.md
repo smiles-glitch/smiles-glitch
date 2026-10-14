@@ -5,6 +5,8 @@ I help improve AI systems through careful data annotation, large language model 
 
 📍 Abuja, Nigeria · 📧 [peeplope1@gmail.com](mailto:peeplope1@gmail.com)
 
+📄 **[View or download my resume (PDF)](Precious.pdf)**
+
 ---
 
 ## About Me
@@ -72,6 +74,7 @@ The following describe areas of work experience rather than separate published s
 
 - **Email:** [peeplope1@gmail.com](mailto:peeplope1@gmail.com)
 - **GitHub:** [@smiles-glitch](https://github.com/smiles-glitch)
+- **Resume:** [Open PDF](Precious.pdf)
 
 ---
 
