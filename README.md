@@ -53,15 +53,16 @@ I value clear reasoning, reliable guideline compliance, careful research, and ac
 - Apply technical-writing principles and NLP awareness across different content types.
 - Manage multiple projects independently in a remote-first environment and meet deadlines.
 
-## Selected Work Areas
+## Selected Projects
 
-The following describe areas of work experience rather than separate published software projects:
+These linked portfolio samples demonstrate my approach to common AI quality tasks. They are illustrative examples, not client-confidential work or claims of published software products.
 
-- **LLM response evaluation:** Compare candidate answers against structured quality dimensions and provide clear preference rationales.
-- **Prompt engineering and SFT:** Author prompts and responses and assess model outputs for instruction adherence and quality.
-- **Search quality rating:** Assess whether results and generated answers are relevant, current, useful, and trustworthy.
-- **Dataset annotation and QA:** Label and categorize data while checking consistency against project guidelines.
-- **AI-generated video evaluation:** Apply rubrics to physical plausibility and motion quality.
+| Project | Focus |
+|---|---|
+| [LLM Response Evaluation](projects/llm-response-evaluation.md) | Assess instruction-following, factuality, relevance, clarity, and safety |
+| [Prompt Engineering](projects/prompt-engineering.md) | Improve prompts with clear constraints, output formats, and evaluation criteria |
+| [Search Quality Review](projects/search-quality-review.md) | Review search results for intent match, usefulness, freshness, and trustworthiness |
+| [Data Annotation & Quality Assurance](projects/data-annotation-quality.md) | Apply labeling guidelines and check annotation consistency |
 
 ## Education & Training
 
